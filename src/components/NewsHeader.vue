@@ -16,7 +16,7 @@
 
 <style scoped lang="scss">
 .navigation-panel-wrapper {
-  height: 70px;
+  height: 60px;
   width: 100%;
   background: #393939;
   box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.1);
